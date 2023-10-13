@@ -8,6 +8,8 @@ Mata Kuliah       : Kriptografi <br>
 Dosen Pengampu    : Ahmad Turmudi Zy, S.Kom., M.Kom <br>
 <br>
 <br>
+
+```py
 def encrypt(text, key):
     encrypted_text = ""
     key_length = len(key)
@@ -72,5 +74,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
 
 #Apabila di running maka, masukan username dan password kemudian hasil nya akan seperti ini 
